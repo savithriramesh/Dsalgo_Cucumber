@@ -18,10 +18,10 @@ public class Steps_Login {
 	public Login_Page Lp;
 	public DsalgoPortal_Page DP;
 	
-	List<HashMap<String,String>> dataSet = Getdata_excel.readExcelDatafromFile("C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Excel_file\\dsalgo_testdata.xls", "Login");
+	List<HashMap<String,String>> dataSet =
+			Getdata_excel.readExcelDatafromFile("C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Excel_file\\dsalgo_testdata.xls", "Login");
 	
 	
-
 	@Given("Launch chrome Browser")
 	public void launch_chrome_browser() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Drivers\\chromedriver.exe");	
@@ -57,7 +57,7 @@ public class Steps_Login {
 	@When("User Enters Login data as in {int}")
 	public void user_enters_login_data_as_in(Integer excelDataRow) {
 		 int dataRow = excelDataRow-1;
-		 Lp.SetLoginData(dataSet.get(dataRow).get("Username"), dataSet.get(dataRow).get("Password"));
+		 Lp.SetLoginData(dataSet.get(dataRow).get("username"), dataSet.get(dataRow).get("password"));
 	}
 
 	@Then("The user should be redirected to Home Page with the message {string} and with the user name on the top")
