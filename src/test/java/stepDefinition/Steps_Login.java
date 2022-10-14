@@ -49,7 +49,7 @@ public class Steps_Login {
 	   Lp.Click_on_Login();
 	}
 
-	@Then("It should display an error {string} below Username textbox")
+	@Then("It should display an error {string} below USERNAME textbox")
 	public void it_should_display_an_error_below_username_textbox(String string) {
 		
 	}
