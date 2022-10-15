@@ -1,14 +1,13 @@
 package stepDefinition;
 
-import org.openqa.selenium.WebDriver;
-
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import pageObjects.Array_PageObject;
+import utilities.Util;
 
 public class Step_Array {
 	
-	public WebDriver driver;
-	public Array_PageObject Ap;
+	public Array_PageObject Ap = new Array_PageObject(Util.getChromeDriver());
 	
 	
 	@When("Click on Getstarted Button in Array")
@@ -16,7 +15,7 @@ public class Step_Array {
 		Ap.Click_on_getstarted_Btn();
 	}
 
-	@Then("The user be directed to {string} Data Structure Page")
+	@Then("The user be directed to {string} Page")
 	public void the_user_be_directed_to_data_structure_page(String string) {
 	}
 

@@ -1,14 +1,13 @@
 package stepDefinition;
 
-import org.openqa.selenium.WebDriver;
 
 import io.cucumber.java.en.When;
 import pageObjects.Queue_PageObject;
+import utilities.Util;
 
 public class Steps_Queue {
 	
-	public WebDriver driver;
-	public Queue_PageObject Qp;
+	public Queue_PageObject Qp = new Queue_PageObject(Util.getChromeDriver());
 	
 	@When("Click on Getstarted Button in Queue")
 	public void click_on_getstarted_button_in_queue() {
