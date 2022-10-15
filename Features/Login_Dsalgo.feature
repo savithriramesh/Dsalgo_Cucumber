@@ -9,7 +9,6 @@ Feature:login
     When Click on Getstarted Button
     When Click on Sigin
     When Click on LoginButton
-  	
 
   @tag2
   Scenario Outline: 
@@ -19,11 +18,10 @@ Feature:login
     When Click on Sigin
     And User Enters Login data as in <rowindex>
     When Click on LoginButton
-   	
 
     Examples: 
       | rowindex  |  
       | 1 |   
-      | 2 |  
-      | 3 | 
-		
+      | 2 |
+      | 3 |
+  	 

@@ -1,38 +1,60 @@
 @tag
 Feature: Queue
 
- @tag1
- Scenario: View on Queue in Data structure
+		Background:
+		Given Launch chrome Browser
+    When User Opens URL "https://dsportalapp.herokuapp.com"
+    When Click on Getstarted Button
+    When Click on Sigin
+    And User Enters Login data as in 3
+    When Click on LoginButton
     When Click on Getstarted Button in Queue
-    Then The user be directed to "Queue" Data Structure Page
-		When Click on Implementation of Queue in Python Link
+    When Click on Implementation of Queue in Python Link
+    
+
+ 		@queue_data
+ 		Scenario: View on Queue in Data structure
   	And  Click on Try Here Link
   	Then The user redirected to "TryEditor" page
   	And Enter a python code in try editor box
   	When Click on Run button
+  	And close the browser
   	
- @tag2 	
- Scenario: 2
+  	
+ 		@deque 	
+ 		Scenario: View on Implementation using collections.deque link
  		When Click on Implementation using collections.deque link
  		When Click on Try Here Link
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
+  	And close the browser
   	
-  	@tag3 	
- Scenario: 2
+  	@imple_array 	
+ 		Scenario: Implementing using array link
  		When Click on Implementation using array link
  		When Click on Try Here Link
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
+  	And close the browser
   	
   	
-  	Scenario: 2
+  	@que_oper
+  	Scenario: Queue operations link
  		When Click on Queue Operations link
  		When Click on Try Here Link
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
+  	And close the browser
+  	
+  	@prac_ques
+  	Scenario:Practice Questions
   	When Click on Practice Questions
+  	And close the browser
+  	
+  	
+  	
+  	
   	
