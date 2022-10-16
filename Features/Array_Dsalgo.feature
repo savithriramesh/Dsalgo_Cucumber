@@ -2,7 +2,7 @@
 @array
 Feature: Array
 
-	Background:
+		Background:
 		Given Launch chrome Browser
     When User Opens URL "https://dsportalapp.herokuapp.com"
     When Click on Getstarted Button
