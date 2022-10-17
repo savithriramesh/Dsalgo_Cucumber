@@ -10,6 +10,7 @@ Feature:login
     When Click on Sigin
     When Click on LoginButton
 		And close the browser
+		
   @tag2
   Scenario Outline: 
     Given Launch chrome Browser
