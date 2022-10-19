@@ -92,7 +92,10 @@ public class Step_Array {
 		Ap.Click_On_SquareSortedAry_Lnk();
 	}
 	
-	
+	@Then("Go back to previous page")
+	public void go_back_to_previous_page() {
+		Ap.Click_On_Backbutton();
+	}
 	
 
 }

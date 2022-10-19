@@ -2,7 +2,7 @@
 Feature: Stack
 
 
-Background:
+		Scenario:Login
 		Given Launch chrome Browser
     When User Opens URL "https://dsportalapp.herokuapp.com"
     When Click on Getstarted Button
@@ -20,24 +20,27 @@ Background:
   	Then The user redirected to "TryEditor" page
   	And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
 
 
 	@implemention 
 	Scenario: View on Implementation page
 		When Click on Implementation
   	And  Click on Try Here Link
-  	And close the browser
+  	And Enter a python code in try editor box
+  	When Click on Run button
+  	Then Go back to previous page
   	
   @application 
 	Scenario: View on app page
 		When Click on Applications
   	And  Click on Try Here Link
-  	And close the browser
+  	And Enter a python code in try editor box
+  	When Click on Run button
+  	Then Go back to previous page
   	
   @prac_ques 
 	Scenario: View on practice question page
-		When Click on Operations in Stack
 		When Click on Practice Questions
   	And close the browser
   

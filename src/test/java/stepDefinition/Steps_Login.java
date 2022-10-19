@@ -1,6 +1,5 @@
 package stepDefinition;
 
-import java.time.Duration;
 import java.util.HashMap;
 import java.util.List;
 
@@ -68,7 +67,7 @@ public class Steps_Login {
 	}
 	@When("close the browser")
 	public void close_the_browser() {
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		Util.closeChromeDriver();
 	}
 }

@@ -1,11 +1,13 @@
 package pageObjects;
 
+
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
 
 public class Login_Page {
 	public WebDriver Rdriver;
@@ -43,8 +45,19 @@ public class Login_Page {
 	}
 	
 	public void Click_on_signout() {
-		Rdriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		//Rdriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		signout_Btn.click();
 	}
 
+	public String getpageTitle()
+	{
+		return Rdriver.getTitle();
+	}
+	
+	
+	
+
+	
 }
+
+

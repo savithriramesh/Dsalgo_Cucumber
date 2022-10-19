@@ -1,18 +1,21 @@
 package myTestRunner;
 
-import io.cucumber.testng.AbstractTestNGCucumberTests;
+//import org.junit.runner.RunWith;
+//import io.cucumber.junit.Cucumber;
 import io.cucumber.testng.CucumberOptions;
 
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+//import io.cucumber.testng.CucumberOptions;
+//@RunWith(Cucumber.class)
 @CucumberOptions(
 
 		plugin = { "pretty", "html:target/Dsalgo.html", "pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}, // reporting purpose
-		monochrome = true, // console output
+		monochrome = true, // console output,
 		 //tags = "@array or @array_pyn", //tags from feature file
-		features = { "Features"}, // location of
-		// feature files
+		features = {"Features"},
 		glue = "stepDefinition") // location of step definition files
 
-public class TestRunner extends AbstractTestNGCucumberTests {
+public class TestRunner extends AbstractTestNGCucumberTests  {
 
 }
 
@@ -25,3 +28,4 @@ public class TestRunner extends AbstractTestNGCucumberTests {
 				"C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Features\\Array_Dsalgo.feature",
 				"C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Features\\Graph.feature"} */
 
+//extends AbstractTestNGCucumberTests

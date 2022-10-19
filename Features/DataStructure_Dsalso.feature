@@ -1,7 +1,7 @@
-@data
 Feature: Data Structure
 
-  	Background:
+		@data
+  	Scenario:Login
 		Given Launch chrome Browser
     When User Opens URL "https://dsportalapp.herokuapp.com"
     When Click on Getstarted Button
@@ -18,7 +18,7 @@ Feature: Data Structure
   	Then The user redirected to "TryEditor" page
   	And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
   	
   	Scenario: View on Data Structure introdution
 		When Click on Time Complexity Link

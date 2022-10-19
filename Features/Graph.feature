@@ -1,6 +1,7 @@
 Feature: Graph
 
- Background:
+		@login
+ 		Scenario:Login
 		Given Launch chrome Browser
     When User Opens URL "https://dsportalapp.herokuapp.com"
     When Click on Getstarted Button
@@ -17,17 +18,20 @@ Feature: Graph
   	Then The user redirected to "TryEditor" page
   	And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
  
  
  	@graph_rep
 	Scenario: View on graph page
 		When Click on graph representations link
-  	And close the browser
+		And  Click on Try Here Link
+  	Then The user redirected to "TryEditor" page
+  	And Enter a python code in try editor box
+  	When Click on Run button
+  	Then Go back to previous page
  
  	@graph 
 	Scenario: View on graph page
-		When Click on graph link
 		When Click on Practice Questions
   	And close the browser
   	

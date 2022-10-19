@@ -1,7 +1,8 @@
 @tag
 Feature: Queue
 
-		Background:
+		@queue
+		Scenario:Login
 		Given Launch chrome Browser
     When User Opens URL "https://dsportalapp.herokuapp.com"
     When Click on Getstarted Button
@@ -18,7 +19,7 @@ Feature: Queue
   	Then The user redirected to "TryEditor" page
   	And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
   	
   	
  		@deque 	
@@ -28,7 +29,7 @@ Feature: Queue
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
   	
   	@imple_array 	
  		Scenario: Implementing using array link
@@ -37,7 +38,7 @@ Feature: Queue
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
   	
   	
   	@que_oper
@@ -47,7 +48,7 @@ Feature: Queue
  		Then The user redirected to "TryEditor" page
  		And Enter a python code in try editor box
   	When Click on Run button
-  	And close the browser
+  	Then Go back to previous page
   	
   	@prac_ques
   	Scenario:Practice Questions

@@ -99,4 +99,9 @@ public class Array_PageObject {
 	public void Click_On_SquareSortedAry_Lnk() {
 		sqrSrtAry.click();
 	}
+	public void Click_On_Backbutton() {
+		Rdriver.navigate().back();
+		
+		
+	}
 }
