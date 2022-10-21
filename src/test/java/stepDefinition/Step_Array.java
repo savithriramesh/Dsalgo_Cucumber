@@ -1,15 +1,20 @@
 package stepDefinition;
 
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import dataProvider.ConfigFileReader;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.Array_PageObject;
 import utilities.Util;
 
 public class Step_Array {
-	
+
 	public Array_PageObject Ap = new Array_PageObject(Util.getChromeDriver());
-	
-	
+	private static Logger LOGGER = LogManager.getLogger(Step_Array.class);
+	ConfigFileReader configFileReader;
+
 	@When("Click on Getstarted Button in Array")
 	public void click_on_getstarted_button_in_array() {
 		Ap.Click_on_getstarted_Btn();
@@ -21,22 +26,34 @@ public class Step_Array {
 
 	@When("Click on Arrays in Python Link")
 	public void click_on_arrays_in_python_link() {
+		LOGGER.info("Click on Arrays in Python Link");
 		Ap.Click_on_arraypyn_Lnk();
 	}
 
 	@Then("The user redirected to {string} page")
 	public void the_user_redirected_to_page(String string) {
-		
+		LOGGER.info("Click on Arrays in Python Link");
+
 	}
 
 	@Then("Click on Try Here Link")
 	public void click_on_try_here_button_in_arrays_in_python_page() {
+		LOGGER.info("Click on Arrays in Python Link");
 		Ap.Click_on_tryhere_Btn();
 	}
 	
+	//@Then("Click on tryEditorbox")
+	//public void click_on_try_editorbox() {
+	//	Ap.Type_On_tryEdtBx();
+	//}
+
 	@Then("Enter a python code in try editor box")
 	public void enter_a_python_code_in_try_editor_box() {
+		//configFileReader= new ConfigFileReader();
+		LOGGER.info("Click on Arrays in Python Link");
 		Ap.Type_On_tryEdtBx();
+		//configFileReader.tryEdtBxInput();
+		
 	}
 
 	@When("Click on Run button")
@@ -45,23 +62,22 @@ public class Step_Array {
 	}
 
 //array using list link
-	
+
 	@When("Click on Arrays Using List Link")
 	public void click_on_arrays_using_list_link() {
 		Ap.Click_on_ArrayUsingList_Lnk();
 	}
 
 //	Basic Operations in Lists
-	
+
 	@When("Click on Basic Operations in Lists")
 	public void click_on_basic_operations_in_lists() {
 		Ap.Click_on_BasicOperationLst_Lnk();
-		
-		
+
 	}
-	
+
 //Applications of Array
-	
+
 	@When("Click on Applications of Array")
 	public void click_on_applications_of_array() {
 		Ap.Click_on_ApplicationOfArray_Lnk();
@@ -91,11 +107,10 @@ public class Step_Array {
 	public void click_on_square_of_sorted_array() {
 		Ap.Click_On_SquareSortedAry_Lnk();
 	}
-	
+
 	@Then("Go back to previous page")
 	public void go_back_to_previous_page() {
 		Ap.Click_On_Backbutton();
 	}
-	
 
 }

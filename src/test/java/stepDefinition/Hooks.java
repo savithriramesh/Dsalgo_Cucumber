@@ -1,6 +1,6 @@
 package stepDefinition;
 
-/*import java.io.File;
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,7 +12,7 @@ import org.openqa.selenium.WebDriverException;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
-/*
+
 public class Hooks {
 	
 	protected static WebDriver driver;
@@ -39,7 +39,7 @@ public class Hooks {
 		
 	}
 	
-	/* Method to take Screen shot
+	// Method to take Screen shot
 	public static String TakeScreenshot(String methodName, WebDriver driver) {
 		
 		TakesScreenshot screenShot = (TakesScreenshot) driver;
@@ -58,6 +58,6 @@ public class Hooks {
 		}
 
 		return destFilePath;
-	} */
+	} 
 
-//}
+}

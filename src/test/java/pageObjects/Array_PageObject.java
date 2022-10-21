@@ -60,6 +60,7 @@ public class Array_PageObject {
 	}
 
 	public void Type_On_tryEdtBx() {
+		//tryEdtBx.click();
 		Actions ac = new Actions(Util.getChromeDriver());
 		ac.click(tryEdtBx).sendKeys("print('Python')").perform();
 	}

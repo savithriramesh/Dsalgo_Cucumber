@@ -1,0 +1,175 @@
+2022-10-21 11:46:43.300 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:43.315 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:43.315 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:43.316 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:43.330 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:43.347 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370803347
+2022-10-21 11:46:43.355 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 8ms
+2022-10-21 11:46:43.356 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:43.356 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370803356
+2022-10-21 11:46:43.357 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:43.358 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:43.358 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370803358
+2022-10-21 11:46:43.358 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:49.410 INFO [main] [stepDefinition.Step_Array.click_on_arrays_in_python_link(Step_Array.java:29)] - Click on Arrays in Python Link
+2022-10-21 11:46:50.631 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:50.639 INFO [main] [stepDefinition.Step_Array.click_on_try_here_button_in_arrays_in_python_page(Step_Array.java:41)] - Click on Arrays in Python Link
+2022-10-21 11:46:52.002 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:52.004 INFO [main] [stepDefinition.Step_Array.enter_a_python_code_in_try_editor_box(Step_Array.java:53)] - Click on Arrays in Python Link
+2022-10-21 11:46:53.010 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:53.015 INFO [main] [stepDefinition.Step_Array.click_on_try_here_button_in_arrays_in_python_page(Step_Array.java:41)] - Click on Arrays in Python Link
+2022-10-21 11:46:53.405 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:53.405 INFO [main] [stepDefinition.Step_Array.enter_a_python_code_in_try_editor_box(Step_Array.java:53)] - Click on Arrays in Python Link
+2022-10-21 11:46:54.798 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:54.813 INFO [main] [stepDefinition.Step_Array.click_on_try_here_button_in_arrays_in_python_page(Step_Array.java:41)] - Click on Arrays in Python Link
+2022-10-21 11:46:55.195 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:55.197 INFO [main] [stepDefinition.Step_Array.enter_a_python_code_in_try_editor_box(Step_Array.java:53)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.035 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.037 INFO [main] [stepDefinition.Step_Array.click_on_try_here_button_in_arrays_in_python_page(Step_Array.java:41)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.209 INFO [main] [stepDefinition.Step_Array.the_user_redirected_to_page(Step_Array.java:35)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.212 INFO [main] [stepDefinition.Step_Array.enter_a_python_code_in_try_editor_box(Step_Array.java:53)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.519 INFO [main] [stepDefinition.Step_Array.click_on_arrays_in_python_link(Step_Array.java:29)] - Click on Arrays in Python Link
+2022-10-21 11:46:56.976 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:56.976 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:56.977 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:56.977 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:56.979 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:56.979 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370816979
+2022-10-21 11:46:56.979 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:56.980 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:56.980 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370816980
+2022-10-21 11:46:56.980 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:56.981 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:56.981 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370816981
+2022-10-21 11:46:56.981 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.203 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.204 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.204 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.205 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.205 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.205 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817205
+2022-10-21 11:46:57.206 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.206 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.207 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817207
+2022-10-21 11:46:57.207 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.208 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.209 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817209
+2022-10-21 11:46:57.209 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.464 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.465 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.465 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.465 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.466 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.467 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817467
+2022-10-21 11:46:57.467 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.468 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.468 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817468
+2022-10-21 11:46:57.468 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.469 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.469 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817469
+2022-10-21 11:46:57.469 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.528 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.530 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.530 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.530 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.530 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.530 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817530
+2022-10-21 11:46:57.531 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.531 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.531 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817531
+2022-10-21 11:46:57.532 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.532 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.532 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817532
+2022-10-21 11:46:57.532 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.592 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.592 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.593 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.593 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.593 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.594 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817594
+2022-10-21 11:46:57.594 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.594 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.595 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817595
+2022-10-21 11:46:57.595 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.595 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.595 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817595
+2022-10-21 11:46:57.596 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.643 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.644 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.644 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.644 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.645 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.645 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817645
+2022-10-21 11:46:57.646 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.646 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.646 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817646
+2022-10-21 11:46:57.647 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.647 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.647 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817647
+2022-10-21 11:46:57.648 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.688 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.689 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.689 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.690 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.690 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.691 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817691
+2022-10-21 11:46:57.691 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.691 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.692 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817692
+2022-10-21 11:46:57.692 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.693 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.693 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817693
+2022-10-21 11:46:57.693 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.729 INFO [main] [stepDefinition.Step_Array.click_on_try_here_button_in_arrays_in_python_page(Step_Array.java:41)] - Click on Arrays in Python Link
+2022-10-21 11:46:57.921 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.922 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.922 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.923 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.923 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.923 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817923
+2022-10-21 11:46:57.925 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 2ms
+2022-10-21 11:46:57.925 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.925 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817925
+2022-10-21 11:46:57.926 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:57.926 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.927 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817927
+2022-10-21 11:46:57.927 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.963 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:57.964 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:57.964 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:57.965 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:57.965 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.966 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817966
+2022-10-21 11:46:57.966 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.967 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.967 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817967
+2022-10-21 11:46:57.967 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:57.968 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:57.968 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370817968
+2022-10-21 11:46:57.968 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:58.005 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:58.006 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:58.007 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:58.007 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:58.007 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.010 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818010
+2022-10-21 11:46:58.010 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:58.011 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.011 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818011
+2022-10-21 11:46:58.012 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:58.012 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.012 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818012
+2022-10-21 11:46:58.013 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 1ms
+2022-10-21 11:46:58.065 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:185)] - Workbook (readfile) created with reclen=189
+2022-10-21 11:46:58.067 DEBUG [main] [org.apache.poi.hssf.model.InternalWorkbook.createWorkbook(InternalWorkbook.java:319)] - exit create workbook from existing file function
+2022-10-21 11:46:58.067 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:462)] - convertLabelRecords called
+2022-10-21 11:46:58.067 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFWorkbook.convertLabelRecords(HSSFWorkbook.java:481)] - convertLabelRecords exit
+2022-10-21 11:46:58.067 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.068 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818068
+2022-10-21 11:46:58.068 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:58.068 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.068 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818068
+2022-10-21 11:46:58.069 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms
+2022-10-21 11:46:58.069 DEBUG [main] [org.apache.poi.hssf.model.InternalSheet.<init>(InternalSheet.java:337)] - sheet createSheet (existing file) exited
+2022-10-21 11:46:58.069 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:211)] - Time at start of cell creating in HSSF sheet = 1666370818069
+2022-10-21 11:46:58.069 DEBUG [main] [org.apache.poi.hssf.usermodel.HSSFSheet.setPropertiesFromSheet(HSSFSheet.java:250)] - total sheet cell creation took 0ms

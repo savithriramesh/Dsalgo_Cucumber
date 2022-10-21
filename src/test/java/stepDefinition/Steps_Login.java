@@ -20,12 +20,12 @@ public class Steps_Login {
 	public DsalgoPortal_Page DP;
 	
 	List<HashMap<String,String>> dataSet =
-			Getdata_excel.readExcelDatafromFile("C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Excel_file\\dsalgo_testdata.xls", "Login");
+			Getdata_excel.readExcelDatafromFile("./Excel_file/dsalgo_testdata.xls", "Login");
 	
 	
 	@Given("Launch chrome Browser")
 	public void launch_chrome_browser() {
-		System.setProperty("webdriver.chrome.driver", "C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Drivers\\chromedriver.exe");	
+		System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");	
 		 driver = Util.getChromeDriver();
 		 Lp = new Login_Page(driver);
 		 DP = new DsalgoPortal_Page(driver);
