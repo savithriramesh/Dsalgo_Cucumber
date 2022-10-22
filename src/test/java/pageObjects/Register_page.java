@@ -46,7 +46,7 @@ public class Register_page {
 	}
 	
 	public void SetregisterData(String username,String pwd,String Con_pwd) {
-		//Rdriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		Rdriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		Username.sendKeys(username);
 		password.sendKeys(pwd);
 		cnf_password.sendKeys(Con_pwd);

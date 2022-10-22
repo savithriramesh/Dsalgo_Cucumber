@@ -101,8 +101,11 @@ public class Array_PageObject {
 		sqrSrtAry.click();
 	}
 	public void Click_On_Backbutton() {
-		Rdriver.navigate().back();
-		
-		
+		Rdriver.navigate().back();	
+	}
+	
+	public String getpageTitle()
+	{
+		return Rdriver.getTitle();
 	}
 }

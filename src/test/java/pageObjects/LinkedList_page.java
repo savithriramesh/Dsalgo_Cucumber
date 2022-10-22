@@ -43,9 +43,9 @@ public class LinkedList_page {
 		Tryhere_Btn.click();
 	}
 	
-	public void setpythoncode() {
+	public void setpythoncode(String code) {
 		Ldriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		python_code.sendKeys("print('name')");
+		python_code.sendKeys(code);
 	}
 	
 	public void Click_on_run() {

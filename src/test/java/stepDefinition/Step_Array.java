@@ -1,20 +1,21 @@
 package stepDefinition;
 
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import dataProvider.ConfigFileReader;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.Array_PageObject;
+import pageObjects.LinkedList_page;
+import utilities.ReadConfig;
 import utilities.Util;
 
 public class Step_Array {
 
 	public Array_PageObject Ap = new Array_PageObject(Util.getChromeDriver());
 	private static Logger LOGGER = LogManager.getLogger(Step_Array.class);
-	ConfigFileReader configFileReader;
+	public LinkedList_page LLp = new LinkedList_page(Util.getChromeDriver());
 
+	
 	@When("Click on Getstarted Button in Array")
 	public void click_on_getstarted_button_in_array() {
 		Ap.Click_on_getstarted_Btn();
@@ -22,6 +23,7 @@ public class Step_Array {
 
 	@Then("The user be directed to {string} Page")
 	public void the_user_be_directed_to_data_structure_page(String string) {
+
 	}
 
 	@When("Click on Arrays in Python Link")
@@ -41,19 +43,12 @@ public class Step_Array {
 		LOGGER.info("Click on Arrays in Python Link");
 		Ap.Click_on_tryhere_Btn();
 	}
-	
-	//@Then("Click on tryEditorbox")
-	//public void click_on_try_editorbox() {
-	//	Ap.Type_On_tryEdtBx();
-	//}
 
 	@Then("Enter a python code in try editor box")
 	public void enter_a_python_code_in_try_editor_box() {
-		//configFileReader= new ConfigFileReader();
 		LOGGER.info("Click on Arrays in Python Link");
-		Ap.Type_On_tryEdtBx();
-		//configFileReader.tryEdtBxInput();
-		
+		LLp.setpythoncode(ReadConfig.getpythoncode());
+
 	}
 
 	@When("Click on Run button")

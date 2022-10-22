@@ -3,14 +3,18 @@ package stepDefinition;
 import java.util.HashMap;
 import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-
+import org.openqa.selenium.firefox.FirefoxDriver;
+import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.DsalgoPortal_Page;
 import pageObjects.Login_Page;
 import utilities.Getdata_excel;
+import utilities.ReadConfig;
 import utilities.Util;
 
 public class Steps_Login {
@@ -18,9 +22,29 @@ public class Steps_Login {
 	public WebDriver driver;
 	public Login_Page Lp;
 	public DsalgoPortal_Page DP;
+	private static Logger logger =  LogManager.getLogger();
 	
 	List<HashMap<String,String>> dataSet =
 			Getdata_excel.readExcelDatafromFile("./Excel_file/dsalgo_testdata.xls", "Login");
+	
+	@Before
+	 public void openbrowser()
+	 {
+		String Browser = ReadConfig.getBrowser();
+		if (Browser.equals("chrome")) 
+		{
+		System.setProperty("webdriver.chrome.driver", "C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Drivers\\chromedriver.exe");	
+		driver = Util.getChromeDriver();
+		}
+		else if(Browser.equals("firefox")) {
+			System.setProperty("webdriver.gecko.driver", "C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Drivers\\geckodriver.exe");	
+			driver = new FirefoxDriver();
+		}
+		/*else if (Browser.equals("edge")) {
+			System.setProperty("webdriver.edge.driver", "C:\\Users\\Divya\\eclipse-workspace\\DS-Algo\\src\\test\\resources\\Driver\\chromedriver.exe");	
+			driver = new EdgeDriver();
+		}*/
+	 }
 	
 	
 	@Given("Launch chrome Browser")
@@ -34,6 +58,7 @@ public class Steps_Login {
 	@When("User Opens URL {string}")
 	public void user_opens_url(String url) {
 		driver.get(url);
+		logger.info("Opened the given url");
 	}
 
 	@When("Click on Getstarted Button")
@@ -50,10 +75,10 @@ public class Steps_Login {
 	   Lp.Click_on_Login();
 	}
 
-	@Then("It should display an error {string} below Username textbox")
-	public void it_should_display_an_error_below_username_textbox(String string) {
+	//@Then("It should display an error {string} below Username textbox")
+	//public void it_should_display_an_error_below_username_textbox(String string) {
 		
-	}
+	//}
 
 	@When("User Enters Login data as in {int}")
 	public void user_enters_login_data_as_in(Integer excelDataRow) {
@@ -69,5 +94,10 @@ public class Steps_Login {
 	public void close_the_browser() {
 		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		Util.closeChromeDriver();
+	}
+	@When("Click on signout")
+	public void Click_on_signout() {
+	    Lp.Click_on_signout();
+	    logger.info("User signout");
 	}
 }
