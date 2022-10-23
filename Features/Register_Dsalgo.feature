@@ -12,7 +12,7 @@ Feature: Register
     When Click on Register Button
   	Then The user should be redirected to Homepage with the message "New Account Created. You are logged in as " username <rowindex>
   	When Click on signout
-  	And close the browser
+  	Then "Logged out successfully" is displayed
   	  Examples: 
       | rowindex  |  
       | 1 | 

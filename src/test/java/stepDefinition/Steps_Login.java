@@ -7,6 +7,8 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.Assert;
+
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -79,6 +81,11 @@ public class Steps_Login {
 	//public void it_should_display_an_error_below_username_textbox(String string) {
 		
 	//}
+	@Then("{string} is displayed")
+	public void is_displayed(String expected_err) {
+		String ActualErr_msg = Lp.check_signoutmsg();
+		Assert.assertEquals(ActualErr_msg, expected_err);
+	}
 
 	@When("User Enters Login data as in {int}")
 	public void user_enters_login_data_as_in(Integer excelDataRow) {

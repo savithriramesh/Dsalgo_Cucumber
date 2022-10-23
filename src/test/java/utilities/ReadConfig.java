@@ -26,13 +26,11 @@ public class ReadConfig {
 	
 	public static String getpythoncode(){
 		readconfigproperties();
-		//String pythoncode = prop.getProperty("pythoncode");
 		return pythoncode;
 	}
 	
 	public static String getBrowser(){
 		readconfigproperties();
-		//String Browser = prop.getProperty("Browser");
 		return Browser;
 	}
 
