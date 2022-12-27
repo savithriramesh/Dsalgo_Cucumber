@@ -29,7 +29,7 @@ public class Steps_Login {
 	List<HashMap<String,String>> dataSet =
 			Getdata_excel.readExcelDatafromFile("./Excel_file/dsalgo_testdata.xls", "Login");
 	
-	@Before
+/*	@Before
 	 public void openbrowser()
 	 {
 		String Browser = ReadConfig.getBrowser();
@@ -42,16 +42,16 @@ public class Steps_Login {
 			System.setProperty("webdriver.gecko.driver", "C:\\Workspace\\first-project\\Ds-algo_Cucumber\\Drivers\\geckodriver.exe");	
 			driver = new FirefoxDriver();
 		}
-		/*else if (Browser.equals("edge")) {
+		else if (Browser.equals("edge")) {
 			System.setProperty("webdriver.edge.driver", "C:\\Users\\Divya\\eclipse-workspace\\DS-Algo\\src\\test\\resources\\Driver\\chromedriver.exe");	
 			driver = new EdgeDriver();
 		}*/
-	 }
-	
+	// }
+	//./Drivers/chromedriver.exe
 	
 	@Given("Launch chrome Browser")
 	public void launch_chrome_browser() {
-		System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");	
+		System.setProperty("webdriver.chrome.driver", "C:\\Workspace\\first-project\\Hello-Selenium\\src\\test\\resources\\drivers\\chromedriver.exe");	
 		 driver = Util.getChromeDriver();
 		 Lp = new Login_Page(driver);
 		 DP = new DsalgoPortal_Page(driver);
@@ -77,10 +77,7 @@ public class Steps_Login {
 	   Lp.Click_on_Login();
 	}
 
-	//@Then("It should display an error {string} below Username textbox")
-	//public void it_should_display_an_error_below_username_textbox(String string) {
-		
-	//}
+	
 	@Then("{string} is displayed")
 	public void is_displayed(String expected_err) {
 		String ActualErr_msg = Lp.check_signoutmsg();

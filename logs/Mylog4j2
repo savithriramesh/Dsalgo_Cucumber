@@ -245,3 +245,593 @@
 [INFO ] 2022-10-23 13:58:59.658 [main] Steps_Login - Opened the given url
 [INFO ] 2022-10-23 13:58:59.843 [main] Step_Array - Click on Arrays in Python Link
 [INFO ] 2022-10-23 13:59:00.066 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:45.761 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:40:47.659 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:48.269 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:48.274 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:48.931 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:48.933 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:49.377 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:49.379 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:49.680 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:49.681 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.084 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.085 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.345 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.347 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.784 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:50.784 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:51.062 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:51.063 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:51.253 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:54.561 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:40:56.520 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:57.147 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:40:57.148 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:15.152 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:41:17.318 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:17.968 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:17.969 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:18.464 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:18.771 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:18.771 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:41:20.633 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:41:21.966 [main] Step_LinkedList - User is On Linked List Page
+[INFO ] 2022-10-24 20:41:22.483 [main] Step_LinkedList - User is On Linked List - Introduction Page
+[INFO ] 2022-10-24 20:41:23.128 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:23.133 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:23.240 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:23.307 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:23.334 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:23.560 [main] Step_LinkedList - User is On Linked List - Create a Linked List Page
+[INFO ] 2022-10-24 20:41:23.809 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:23.814 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:23.901 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:23.971 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:23.996 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:24.309 [main] Step_LinkedList - User is On Linked List - Types of Linked List Page
+[INFO ] 2022-10-24 20:41:24.592 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:24.599 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:24.675 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:24.723 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:24.744 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:25.022 [main] Step_LinkedList - User is On Linked List - Implement Linked List in Python Page
+[INFO ] 2022-10-24 20:41:25.347 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:25.352 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:25.434 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:25.483 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:25.517 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:25.847 [main] Step_LinkedList - User is On Linked List - Traversal Page
+[INFO ] 2022-10-24 20:41:26.131 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:26.136 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:26.220 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:26.269 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:26.286 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:26.567 [main] Step_LinkedList - User is On Linked List - Insertion Page
+[INFO ] 2022-10-24 20:41:26.903 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:26.913 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:26.997 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:27.042 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:27.064 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:27.344 [main] Step_LinkedList - User is On Linked List - Deletion Page
+[INFO ] 2022-10-24 20:41:27.604 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:41:27.612 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:41:27.695 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:41:27.750 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:41:27.776 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:41:41.120 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:41:42.010 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:00.301 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:19.088 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:21.685 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:23.830 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:24.448 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:24.449 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:24.836 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:25.088 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:25.088 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:25.476 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:25.722 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:25.723 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:26.139 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:26.459 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:26.459 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:44.258 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:44.937 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:42:45.318 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:42:45.475 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:45.857 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:42:46.187 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:42:46.368 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:46.753 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:42:47.076 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:42:47.242 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:48.947 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:49.522 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:49.522 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:49.922 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:50.177 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:50.525 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:50.789 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:42:52.569 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:42:53.760 [main] Step_Tree - User is On Tree Page
+[INFO ] 2022-10-24 20:42:54.041 [main] Step_Tree - User is On Tree - Overview of Trees Page
+[INFO ] 2022-10-24 20:42:54.655 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:54.660 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:54.778 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:54.851 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:54.874 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:55.104 [main] Step_Tree - User is On Tree - Terminologies Page
+[INFO ] 2022-10-24 20:42:55.343 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:55.351 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:55.427 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:55.489 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:55.524 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:55.769 [main] Step_Tree - User is On Tree - Types of Trees Page
+[INFO ] 2022-10-24 20:42:56.037 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:56.043 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:56.123 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:56.173 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:56.189 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:56.443 [main] Step_Tree - User is On Tree - Tree Traversals Page
+[INFO ] 2022-10-24 20:42:56.828 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:56.835 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:56.914 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:56.971 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:56.999 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:57.391 [main] Step_Tree - User is On Tree - Traversals-Illustration Page
+[INFO ] 2022-10-24 20:42:57.672 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:57.676 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:57.756 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:57.804 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:57.821 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:58.127 [main] Step_Tree - User is On Tree - Binary Trees Page
+[INFO ] 2022-10-24 20:42:58.403 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:58.408 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:58.504 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:58.554 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:58.569 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:58.994 [main] Step_Tree - User is On Tree - Types of Binary Trees Page
+[INFO ] 2022-10-24 20:42:59.270 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:59.275 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:59.370 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:42:59.418 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:42:59.447 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:42:59.656 [main] Step_Tree - User is On Tree - Implementation in Python Page
+[INFO ] 2022-10-24 20:42:59.907 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:42:59.911 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:42:59.992 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:00.053 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:00.073 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:43:00.356 [main] Step_Tree - User is On Tree - Binary Tree Traversals Page
+[INFO ] 2022-10-24 20:43:00.597 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:43:00.603 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:43:00.689 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:00.760 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:00.778 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:43:01.013 [main] Step_Tree - User is On Tree - Implementation of Binary Trees Page
+[INFO ] 2022-10-24 20:43:01.254 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:43:01.258 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:43:01.341 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:01.395 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:01.412 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:43:01.652 [main] Step_Tree - User is On Tree - Applications of Binary trees Page
+[INFO ] 2022-10-24 20:43:01.877 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:43:01.887 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:43:01.972 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:02.017 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:02.034 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:43:02.734 [main] Step_Tree - User is On Tree - Binary Search Trees Page
+[INFO ] 2022-10-24 20:43:03.027 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:43:03.038 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:43:03.119 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:03.165 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:03.181 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:43:03.443 [main] Step_Tree - User is On Tree - Implementation Of BST Page
+[INFO ] 2022-10-24 20:43:03.687 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:43:03.693 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:43:03.778 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:43:03.866 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:43:03.893 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:06.089 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:08.424 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:09.023 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:09.025 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:09.744 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:09.745 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:10.340 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:10.341 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:10.677 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:10.680 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.213 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.214 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.473 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.474 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.997 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:11.998 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:12.264 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:12.266 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:12.568 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:16.620 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:18.674 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:19.366 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:19.366 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:21.531 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:23.747 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:24.398 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:24.399 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:24.991 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:25.244 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:25.244 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:27.578 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:29.118 [main] Step_LinkedList - User is On Linked List Page
+[INFO ] 2022-10-24 20:52:29.446 [main] Step_LinkedList - User is On Linked List - Introduction Page
+[INFO ] 2022-10-24 20:52:30.078 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:30.082 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:30.215 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:30.300 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:30.328 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:30.593 [main] Step_LinkedList - User is On Linked List - Create a Linked List Page
+[INFO ] 2022-10-24 20:52:30.911 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:30.917 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:31.039 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:31.120 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:31.146 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:31.433 [main] Step_LinkedList - User is On Linked List - Types of Linked List Page
+[INFO ] 2022-10-24 20:52:31.776 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:31.780 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:31.878 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:31.933 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:31.964 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:32.282 [main] Step_LinkedList - User is On Linked List - Implement Linked List in Python Page
+[INFO ] 2022-10-24 20:52:32.549 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:32.560 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:32.660 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:32.716 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:32.740 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:33.106 [main] Step_LinkedList - User is On Linked List - Traversal Page
+[INFO ] 2022-10-24 20:52:33.365 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:33.374 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:33.493 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:33.549 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:33.575 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:33.846 [main] Step_LinkedList - User is On Linked List - Insertion Page
+[INFO ] 2022-10-24 20:52:34.128 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:34.132 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:34.234 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:34.298 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:34.336 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:34.615 [main] Step_LinkedList - User is On Linked List - Deletion Page
+[INFO ] 2022-10-24 20:52:34.896 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-10-24 20:52:34.909 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:52:35.014 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:52:35.084 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:52:35.107 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:52:36.610 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:37.648 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:40.177 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:42.977 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:45.890 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:47.975 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:48.595 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:48.596 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.031 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.296 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.298 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.723 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.983 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:49.984 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:50.460 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:50.701 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:50.701 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:52.723 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:53.381 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:52:53.767 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:52:53.960 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:54.394 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:52:54.748 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:52:54.907 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:55.327 [main] Step_Register - User is On Register Page
+[INFO ] 2022-10-24 20:52:55.677 [main] Step_Register - User Registered
+[INFO ] 2022-10-24 20:52:55.831 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:52:57.746 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:58.313 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:58.313 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:58.830 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:59.114 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:59.536 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:52:59.861 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-10-24 20:53:01.912 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 20:53:03.207 [main] Step_Tree - User is On Tree Page
+[INFO ] 2022-10-24 20:53:03.501 [main] Step_Tree - User is On Tree - Overview of Trees Page
+[INFO ] 2022-10-24 20:53:04.800 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:04.811 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:04.946 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:05.033 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:05.064 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:05.359 [main] Step_Tree - User is On Tree - Terminologies Page
+[INFO ] 2022-10-24 20:53:05.634 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:05.641 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:05.742 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:05.818 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:05.853 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:06.179 [main] Step_Tree - User is On Tree - Types of Trees Page
+[INFO ] 2022-10-24 20:53:06.496 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:06.500 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:06.616 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:06.675 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:06.698 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:07.068 [main] Step_Tree - User is On Tree - Tree Traversals Page
+[INFO ] 2022-10-24 20:53:07.314 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:07.321 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:07.424 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:07.513 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:07.545 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:07.872 [main] Step_Tree - User is On Tree - Traversals-Illustration Page
+[INFO ] 2022-10-24 20:53:08.118 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:08.125 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:08.230 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:08.288 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:08.304 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:08.614 [main] Step_Tree - User is On Tree - Binary Trees Page
+[INFO ] 2022-10-24 20:53:08.885 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:08.896 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:08.994 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:09.042 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:09.057 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:09.435 [main] Step_Tree - User is On Tree - Types of Binary Trees Page
+[INFO ] 2022-10-24 20:53:09.735 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:09.744 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:09.849 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:09.913 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:09.943 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:10.200 [main] Step_Tree - User is On Tree - Implementation in Python Page
+[INFO ] 2022-10-24 20:53:10.447 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:10.451 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:10.570 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:10.639 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:10.661 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:10.985 [main] Step_Tree - User is On Tree - Binary Tree Traversals Page
+[INFO ] 2022-10-24 20:53:11.311 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:11.317 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:11.411 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:11.479 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:11.509 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:11.828 [main] Step_Tree - User is On Tree - Implementation of Binary Trees Page
+[INFO ] 2022-10-24 20:53:12.086 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:12.099 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:12.236 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:12.301 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:12.322 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:12.711 [main] Step_Tree - User is On Tree - Applications of Binary trees Page
+[INFO ] 2022-10-24 20:53:12.996 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:13.000 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:13.125 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:13.215 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:13.249 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:13.760 [main] Step_Tree - User is On Tree - Binary Search Trees Page
+[INFO ] 2022-10-24 20:53:14.038 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:14.048 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:14.181 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:14.246 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:14.269 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 20:53:14.635 [main] Step_Tree - User is On Tree - Implementation Of BST Page
+[INFO ] 2022-10-24 20:53:14.932 [main] Step_Tree - Try Here is clicked
+[INFO ] 2022-10-24 20:53:14.941 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-10-24 20:53:15.058 [main] Step_LinkedList - python code is written
+[INFO ] 2022-10-24 20:53:15.120 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-10-24 20:53:15.141 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-10-24 21:18:55.353 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:18:55.602 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:18:59.045 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:19:02.086 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:19:18.668 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:19:18.933 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:19:19.197 [main] Steps_Login - Opened the given url
+[INFO ] 2022-10-24 21:19:19.378 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-10 13:21:57.422 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-10 13:21:59.107 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:21:59.519 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:21:59.521 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.182 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.184 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.609 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.610 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.894 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:00.901 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:01.371 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:01.372 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:01.640 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:01.640 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:02.070 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:02.070 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:02.369 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:02.370 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-10 13:22:02.573 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:48.340 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-18 16:48:50.313 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:50.802 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:50.803 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:51.464 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:51.466 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:51.905 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:51.906 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:52.220 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:52.221 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:52.739 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:52.740 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.022 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.023 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.391 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.391 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.679 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.680 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:53.867 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 16:48:57.517 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-18 16:48:59.071 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:34.618 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-18 20:31:36.601 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:37.107 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:37.107 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:37.774 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:37.775 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:38.336 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:38.337 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:38.872 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:38.873 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:39.354 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:39.355 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:39.645 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:39.646 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:40.059 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:40.060 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:40.325 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:40.326 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:40.523 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-11-18 20:31:43.924 [main] Steps_Login - Opened the given url
+[INFO ] 2022-11-18 20:31:46.142 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:17:15.685 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:15.987 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:17:16.425 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:17:17.404 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:17.898 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:18.340 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:19.477 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:19.685 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:19.839 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:20.374 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:20.731 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:20.793 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:17:21.308 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:21.568 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:21.865 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:22.128 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:17:22.571 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:50.530 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:51.278 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:54:51.594 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:54:52.564 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:53.219 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:53.962 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:56.805 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:57.227 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:57.713 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:58.181 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:58.555 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:58.603 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:54:59.259 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:59.643 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:54:59.982 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:00.508 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:01.243 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:34.086 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:34.397 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:55:34.793 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:55:35.902 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:36.543 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:37.101 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:38.211 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:38.430 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:38.636 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:38.935 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:39.295 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:39.335 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 09:55:39.812 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:40.145 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:40.435 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:40.816 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 09:55:41.478 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:52.632 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:53.052 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 12:15:53.888 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-03 12:15:55.686 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:56.232 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:57.246 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:59.069 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:59.512 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:15:59.945 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:16:00.400 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:16:00.833 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-03 12:16:00.949 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:53.687 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:35:57.588 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:58.016 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:58.017 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:58.651 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:58.653 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.134 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.136 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.395 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.397 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.800 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:35:59.801 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.078 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.081 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.435 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.436 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.673 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.675 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:00.894 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:04.602 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:06.834 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:07.482 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:07.482 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:09.685 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:12.150 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:12.792 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:12.798 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:13.446 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:13.694 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:13.696 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:15.777 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:17.348 [main] Step_LinkedList - User is On Linked List Page
+[INFO ] 2022-12-26 19:36:17.689 [main] Step_LinkedList - User is On Linked List - Introduction Page
+[INFO ] 2022-12-26 19:36:18.332 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:18.336 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:18.441 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:18.511 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:18.537 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:18.795 [main] Step_LinkedList - User is On Linked List - Create a Linked List Page
+[INFO ] 2022-12-26 19:36:19.065 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:19.070 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:19.163 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:19.231 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:19.259 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:19.622 [main] Step_LinkedList - User is On Linked List - Types of Linked List Page
+[INFO ] 2022-12-26 19:36:19.991 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:19.999 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:20.090 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:20.141 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:20.158 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:20.471 [main] Step_LinkedList - User is On Linked List - Implement Linked List in Python Page
+[INFO ] 2022-12-26 19:36:20.779 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:20.786 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:20.867 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:20.931 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:20.956 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:21.377 [main] Step_LinkedList - User is On Linked List - Traversal Page
+[INFO ] 2022-12-26 19:36:21.668 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:21.677 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:21.770 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:21.822 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:21.838 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:22.174 [main] Step_LinkedList - User is On Linked List - Insertion Page
+[INFO ] 2022-12-26 19:36:22.448 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:22.453 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:22.549 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:22.599 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:22.619 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:22.943 [main] Step_LinkedList - User is On Linked List - Deletion Page
+[INFO ] 2022-12-26 19:36:23.191 [main] Step_LinkedList - Try Here is clicked
+[INFO ] 2022-12-26 19:36:23.201 [main] Step_LinkedList - User is On Linked List - Try editor Page
+[INFO ] 2022-12-26 19:36:23.309 [main] Step_LinkedList - python code is written
+[INFO ] 2022-12-26 19:36:23.361 [main] Step_LinkedList - run button is clicked
+[INFO ] 2022-12-26 19:36:23.380 [main] Step_LinkedList - output is displayed in try editor
+[INFO ] 2022-12-26 19:36:24.808 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:25.733 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:28.379 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:33.698 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:36.492 [main] Steps_Login - Opened the given url
+[INFO ] 2022-12-26 19:36:38.852 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:39.515 [main] Step_Array - Click on Arrays in Python Link
+[INFO ] 2022-12-26 19:36:39.517 [main] Step_Array - Click on Arrays in Python Link
